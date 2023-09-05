@@ -11,4 +11,6 @@ for (int i = 0; i < FavoriteFood.Length; i++)
     Console.WriteLine(FavoriteFood[i]);
 }
 
+//First Favorite food
+Console.WriteLine("My First favorite food is " + FavoriteFood[0]);
 
