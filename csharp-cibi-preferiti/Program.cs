@@ -17,3 +17,6 @@ Console.WriteLine("My First favorite food is " + FavoriteFood[0]);
 //Last favorite food
 Console.WriteLine("My last favorite food is " + FavoriteFood[FavoriteFood.Length -1]);
 
+//BONUS
+Console.WriteLine("The food I like and don't like is: ");
+Console.WriteLine(FavoriteFood[FavoriteFood.Length / 2]);
